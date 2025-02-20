@@ -43,7 +43,7 @@ WeatherApp is a sleek, user-friendly web application developed by **AryCodes** t
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AryCodes/weatherapp.git
+   git clone https://github.com/ArySrc/weatherapp.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
